@@ -1,0 +1,4 @@
+{
+    "command": "flutter test",
+    "working_directory": "/home/kavia/workspace/code-generation/bookstore-transaction-manager-222071-222080/bookstore_frontend"
+}
