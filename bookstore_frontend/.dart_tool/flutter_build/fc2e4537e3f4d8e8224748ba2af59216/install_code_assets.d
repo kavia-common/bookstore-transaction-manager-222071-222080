@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/bookstore-transaction-manager-222071-222080/bookstore_frontend/.dart_tool/flutter_build/fc2e4537e3f4d8e8224748ba2af59216/native_assets.json: 
